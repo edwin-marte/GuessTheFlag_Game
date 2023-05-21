@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Guess The Flag</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="prefs_file">com.example.login_app.PREFERENCE_FILE_KEY</string>
+    <string name="play">Play</string>
+    <string name="_0">0</string>
+    <string name="best_score">Best Score</string>
+    <string name="main_logo">Main Logo</string>
+    <string name="volume">Volume</string>
+    <string name="exit">exit</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="correct_answer">Correct Answer:</string>
+    <string name="your_score">Your Score:</string>
+    <string name="answer">Answer</string>
+    <string name="new_high_score">*New High Score*</string>
+    <string name="replay">REPLAY</string>
+    <string name="main_menu">MAIN MENU</string>
+    <string name="give_up">GIVE UP</string>
+    <string name="option_4">Option 4</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_2">Option 2</string>
+    <string name="flag_image">Flag image</string>
+    <string name="secondary_logo">Secondary logo</string>
+    <string name="option_1">Option 1</string>
+    <string name="are_you_sure_you_want_to_give_up">Are you sure you want to give up?</string>
+    <string name="please_reconnect_and_try_again">Please reconnect and try again</string>
+    <string name="retry">RETRY</string>
+    <string name="no_internet_connection">NO INTERNET CONNECTION</string>
+</resources>
